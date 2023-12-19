@@ -4,6 +4,8 @@
 
 Welcome to the MRTech Ecommerce Shop, a simple and lightweight online store for purchasing PC components. This project is built using HTML, CSS, JavaScript, and Tailwind CSS, making it easy to understand and customize. Whether you're a developer looking to enhance your frontend skills or an enthusiast creating your PC parts shop, this project provides a solid foundation.
 
+Live Demo : [live demo](https://shadowofleaf96.github.io/shoppingCart)
+
 ## Table of Contents
 
 - [Features](#features)
