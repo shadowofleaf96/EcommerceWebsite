@@ -1,6 +1,6 @@
 # PC Parts Ecommerce Shop
 
-![PC Parts Shop Logo]([link_to_logo.png](https://github.com/shadowofleaf96/EcommerceWebsite/blob/d5810905eddccf72552092258527e9dfac01971a/images/Screenshot%202023-12-19%20181207.png?raw=true))
+![PC Parts Shop Logo](https://github.com/shadowofleaf96/EcommerceWebsite/blob/d5810905eddccf72552092258527e9dfac01971a/images/Screenshot%202023-12-19%20181207.png?raw=true)
 
 Welcome to the MRTech Ecommerce Shop, a simple and lightweight online store for purchasing PC components. This project is built using HTML, CSS, JavaScript, and Tailwind CSS, making it easy to understand and customize. Whether you're a developer looking to enhance your frontend skills or an enthusiast creating your PC parts shop, this project provides a solid foundation.
 
