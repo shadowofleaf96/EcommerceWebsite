@@ -17,7 +17,6 @@ Welcome to the MRTech Ecommerce Shop, a simple and lightweight online store for 
 - **Responsive Design**: A mobile-friendly and responsive user interface.
 - **Product Showcase**: Display detailed information about PC components.
 - **Shopping Cart**: Add and manage items in the shopping cart.
-- **Checkout Process**: Simple and straightforward checkout process.
 - **Tailwind CSS Integration**: Utilizes the power of Tailwind CSS for styling.
 
 ## Getting Started
